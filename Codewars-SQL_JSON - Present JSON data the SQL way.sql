@@ -1,4 +1,4 @@
-/*Task
+/*Task - SQL Bug Fixing: Fix the QUERY - Totaling / #SQL #Fundamentals #Data Science
 
 Given the database where users are stored in JSON format, fetch the records splitting the data into separate columns.
 
