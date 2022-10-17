@@ -1,5 +1,8 @@
-/*Task - SQL Bug Fixing: Fix the QUERY - Totaling / #SQL #Fundamentals #Data Science
+/* #SQL #Data Science #JSON
 
+    <6 jyu> Present JSON data the SQL way
+
+    Description:
 Given the database where users are stored in JSON format, fetch the records splitting the data into separate columns.
 
 Notes
