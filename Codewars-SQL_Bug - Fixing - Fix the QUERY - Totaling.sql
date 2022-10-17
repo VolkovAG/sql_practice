@@ -1,5 +1,8 @@
-/* Task - SQL Bug Fixing: Fix the QUERY - Totaling / #SQL #Fundamentals #Data Science
+/* #SQL #Fundamentals #Data Science
 
+    <6 kyu> SQL Bug Fixing: Fix the QUERY - Totaling
+
+    Description:
 Oh no! Timmys been moved into the database divison of his software company but as we know Timmy loves making mistakes.
 Help Timmy keep his job by fixing his query...
 
